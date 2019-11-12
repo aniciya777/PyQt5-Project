@@ -1,0 +1,36 @@
+400 400
+17
+circle 93.973 132.984 6 black
+0
+circle 100 132.972 6 black
+0
+circle 106.027 132.984 6 black
+0
+circle 85 124.944 10 black
+0
+circle 95 124.944 10 black
+0
+circle 105 124.944 10 black
+0
+circle 115 124.944 10 black
+0
+circle 85 114.944 10 black
+0
+circle 115 114.944 10 black
+0
+circle 85 104.944 10 black
+0
+circle 95 101 10 black
+0
+circle 105 101 10 black
+0
+circle 115 104.944 10 black
+0
+circle 85 94.945 10 black
+0
+circle 115 94.945 10 black
+0
+circle 85 84.945 10 black
+0
+circle 115 84.945 10 black
+0

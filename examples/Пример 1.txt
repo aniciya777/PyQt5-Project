@@ -1,0 +1,26 @@
+400 400
+10
+rectangle 69.0 280.0 24.0 24.0 0.0 black
+1
+move 251.0 72.0 10000 cycle
+rectangle 256.0 188.0 24.0 48.0 0.0 black
+0
+rectangle 232.0 152.0 72.0 24.0 0.0 black
+0
+rectangle 35.0 400.0 24.0 24.0 0.0 black
+1
+move 285.0 -96.0 10000 cycle
+rectangle 244.0 248.0 48.0 24.0 0.0 black
+0
+rectangle 300.0 117.0 24.0 48.0 0.0 black
+1
+move 112.0 164.0 5000 
+rectangle 136.0 200.0 72.0 24.0 0.0 black
+0
+rectangle 160.0 236.0 24.0 48.0 0.0 black
+0
+rectangle 208.0 224.0 24.0 72.0 44.797 black
+1
+rotate -44.797 5000 
+rectangle 232.0 200.0 24.0 24.0 0.0 black
+0

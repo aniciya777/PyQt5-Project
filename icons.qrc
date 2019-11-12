@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="prev">
+    <file>icons/back.png</file>
+  </qresource>
+</RCC>

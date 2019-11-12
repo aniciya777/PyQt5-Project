@@ -1,0 +1,40 @@
+400 400
+19
+triangle 93 133 6 0 black
+0
+triangle 100 133 6 0 black
+0
+triangle 107 133 6 0 black
+0
+triangle 85 123 10 0 black
+0
+triangle 94 123 10 0 black
+0
+triangle 105 123 10 0 black
+0
+triangle 114 123 10 0 black
+0
+triangle 85 114.5 10 0 black
+0
+triangle 115 114.5 10 0 black
+0
+triangle 85 106 10 0 black
+0
+triangle 115 106 10 0 black
+0
+triangle 85 96 10 0 black
+0
+triangle 115 96 10 0 black
+0
+triangle 85 86.11 10 0 black
+0
+triangle 115 86.11 10 0 black
+0
+triangle 85 78.606 10 0 black
+0
+triangle 115 78.606 10 0 black
+0
+triangle 95 100 10 0 black
+0
+triangle 105 100 10 0 black
+0

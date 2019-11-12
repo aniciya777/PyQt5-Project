@@ -1,0 +1,12 @@
+400 400
+5
+rectangle 100 124.944 40 10 0 black
+0
+rectangle 100 133 20 6 0 black
+0
+rectangle 85 98 10 44 0 black
+0
+rectangle 115 98 10 44 0 black
+0
+rectangle 100 101 20 10 0 black
+0

@@ -1,0 +1,552 @@
+1300 400
+110
+rectangle 851.000 126.000 55.043 91.738 214.199 red
+3
+move 944.600 304.000 10800 cycle
+scale 0.981 1800
+rotate 291.602 10800 cycle
+rectangle 1089.000 2.000 6.266 6.266 69.786 black
+3
+move 976.000 507.000 10800 cycle
+scale 2.075 1800
+rotate -139.573 3600 cycle
+rectangle 1183.000 385.000 14.284 14.284 329.788 yellow
+3
+move 1115.700 254.500 5400
+scale 0.820 3600 cycle
+rotate 60.425 3600 cycle
+rectangle 491.000 120.000 4.775 9.549 215.478 yellow
+3
+move 1511.600 350.000 3600 cycle
+scale 4.446 10800 cycle
+rotate 289.044 10800 cycle
+rectangle 22.000 169.000 2.678 8.034 29.977 red
+3
+move 1451.800 288.000 3600 cycle
+scale 4.854 5400
+rotate -59.954 3600 cycle
+rectangle 758.000 225.000 9.080 9.080 338.204 yellow
+3
+move 1192.600 284.000 10800 cycle
+scale 1.863 3600 cycle
+rotate 43.591 10800 cycle
+rectangle 873.000 291.000 9.178 9.178 34.613 yellow
+3
+move 715.200 218.000 3600 cycle
+scale 1.833 10800 cycle
+rotate -69.226 10800 cycle
+rectangle 740.000 371.000 9.437 9.437 89.764 black
+3
+move 1084.500 254.500 1800
+scale 1.378 5400
+rotate -179.529 3600 cycle
+rectangle 791.000 399.000 6.146 18.438 248.478 red
+3
+move 425.300 241.500 5400
+scale 3.230 3600 cycle
+rotate 223.043 10800 cycle
+rectangle 1282.000 234.000 4.354 4.354 142.654 yellow
+3
+move -265.000 145.000 10800 cycle
+scale 2.986 1800
+rotate -285.307 10800 cycle
+rectangle 1210.000 37.000 2.892 5.785 279.368 yellow
+3
+move 688.600 355.000 10800 cycle
+scale 4.495 1800
+rotate 161.265 3600 cycle
+circle 68.000 47.000 6.100 black
+3
+move 97.000 462.000 3600 cycle
+scale 1.131 10800 cycle
+rotate -62.153 10800 cycle
+circle 232.000 152.000 2.717 black
+3
+move 82.500 209.000 5400
+scale 4.785 5400
+rotate -335.920 3600 cycle
+rectangle 1089.000 145.000 11.729 5.864 196.706 yellow
+3
+move 1155.400 286.000 3600 cycle
+scale 3.434 3600 cycle
+rotate 326.588 10800 cycle
+rectangle 1077.000 267.000 10.630 10.630 1.071 yellow
+3
+move 899.600 242.000 10800 cycle
+scale 1.446 10800 cycle
+rotate -2.143 10800 cycle
+rectangle 106.000 95.000 10.426 3.475 165.175 red
+3
+move 225.400 258.000 3600 cycle
+scale 3.741 1800
+rotate -330.350 3600 cycle
+rectangle 1119.000 227.000 4.626 9.252 334.153 yellow
+3
+move 508.500 209.000 1800
+scale 4.621 3600 cycle
+rotate 51.693 10800 cycle
+rectangle 578.000 286.000 5.144 15.432 134.571 black
+3
+move 627.700 228.500 5400
+scale 4.054 10800 cycle
+rotate -269.141 10800 cycle
+rectangle 1281.000 208.000 10.054 10.054 144.850 red
+3
+move -352.400 223.000 3600 cycle
+scale 1.586 10800 cycle
+rotate -289.699 10800 cycle
+rectangle 287.000 155.000 10.151 10.151 50.265 black
+3
+move 1804.000 224.000 10800 cycle
+scale 1.281 5400
+rotate -100.529 3600 cycle
+rectangle 349.000 245.000 6.803 13.606 120.604 black
+3
+move 906.400 147.000 10800 cycle
+scale 2.822 3600 cycle
+rotate -120.604 5400
+rectangle 267.000 79.000 5.777 5.777 319.838 yellow
+3
+move 282.800 326.000 3600 cycle
+scale 3.501 3600 cycle
+rotate 80.324 3600 cycle
+rectangle 983.000 222.000 11.167 5.584 357.001 yellow
+3
+move 696.200 131.000 3600 cycle
+scale 3.657 3600 cycle
+rotate 5.998 10800 cycle
+rectangle 443.000 196.000 7.647 15.294 188.548 red
+3
+move -163.600 196.000 10800 cycle
+scale 2.400 3600 cycle
+rotate 342.905 3600 cycle
+circle 898.000 85.000 3.749 black
+3
+move -707.000 294.000 3600 cycle
+scale 1.734 5400
+rotate 113.037 1800
+rectangle 971.000 204.000 15.617 31.233 94.740 yellow
+3
+move 46.000 266.000 3600 cycle
+scale 0.832 1800
+rotate -94.740 5400
+rectangle 1263.000 295.000 4.934 4.934 179.842 black
+3
+move -7.600 214.000 10800 cycle
+scale 4.269 10800 cycle
+rotate -359.685 10800 cycle
+rectangle 933.000 100.000 10.229 30.688 269.540 red
+3
+move 592.800 357.000 10800 cycle
+scale 1.542 10800 cycle
+rotate 180.920 10800 cycle
+rectangle 695.000 72.000 5.529 5.529 282.985 red
+3
+move 152.700 254.500 5400
+scale 3.702 10800 cycle
+rotate 154.031 10800 cycle
+rectangle 291.000 24.000 31.018 15.509 8.962 yellow
+3
+move 2031.400 485.000 10800 cycle
+scale 0.676 3600 cycle
+rotate -17.925 10800 cycle
+rectangle 985.000 302.000 26.813 13.407 305.285 yellow
+3
+move 554.000 176.500 1800
+scale 0.939 10800 cycle
+rotate 109.430 3600 cycle
+rectangle 414.000 376.000 13.837 4.612 138.707 red
+3
+move 462.600 -23.000 3600 cycle
+scale 4.637 3600 cycle
+rotate -138.707 5400
+rectangle 335.000 379.000 39.462 13.154 185.993 black
+3
+move 972.400 -26.000 3600 cycle
+scale 0.988 5400
+rotate 174.007 5400
+rectangle 572.000 308.000 4.485 8.969 216.659 yellow
+3
+move 1016.200 162.000 3600 cycle
+scale 4.798 3600 cycle
+rotate 143.341 1800
+rectangle 1055.000 185.000 9.701 29.104 25.486 yellow
+3
+move -505.200 272.000 3600 cycle
+scale 1.680 10800 cycle
+rotate -50.972 10800 cycle
+rectangle 58.000 348.000 12.830 12.830 156.167 red
+3
+move 896.600 161.000 3600 cycle
+scale 1.027 10800 cycle
+rotate -312.334 3600 cycle
+rectangle 35.000 295.000 29.057 14.528 345.077 yellow
+3
+move 1592.200 214.000 3600 cycle
+scale 0.790 3600 cycle
+rotate 29.845 3600 cycle
+rectangle 253.000 348.000 4.749 14.246 84.534 black
+3
+move 1032.500 202.500 1800
+scale 4.475 10800 cycle
+rotate -169.067 10800 cycle
+rectangle 567.000 199.000 6.326 6.326 52.322 yellow
+3
+move 1664.400 180.000 10800 cycle
+scale 3.110 10800 cycle
+rotate -104.644 10800 cycle
+rectangle 1163.000 155.000 14.148 7.074 344.079 black
+3
+move 183.400 276.000 3600 cycle
+scale 2.676 10800 cycle
+rotate 31.841 3600 cycle
+rectangle 1158.000 376.000 12.743 38.230 316.219 red
+3
+move 710.900 228.500 5400
+scale 1.040 3600 cycle
+rotate 87.561 3600 cycle
+rectangle 463.000 135.000 5.478 16.435 141.778 red
+3
+move 1062.800 244.000 3600 cycle
+scale 3.746 3600 cycle
+rotate -283.556 10800 cycle
+rectangle 1029.000 55.000 29.414 9.805 113.275 yellow
+3
+move 585.200 298.000 10800 cycle
+scale 1.652 3600 cycle
+rotate -226.550 3600 cycle
+rectangle 418.000 195.000 4.884 9.767 248.431 yellow
+3
+move 1813.400 275.000 10800 cycle
+scale 4.324 10800 cycle
+rotate 223.139 3600 cycle
+rectangle 1103.000 152.000 9.725 19.450 288.962 red
+3
+move -148.400 240.000 3600 cycle
+scale 1.674 3600 cycle
+rotate 142.076 10800 cycle
+rectangle 229.000 13.000 26.372 13.186 289.132 yellow
+3
+move 1450.200 496.000 3600 cycle
+scale 0.972 10800 cycle
+rotate 141.736 10800 cycle
+rectangle 731.000 257.000 24.090 8.030 61.597 red
+3
+move 145.600 174.000 3600 cycle
+scale 2.238 10800 cycle
+rotate -123.194 10800 cycle
+rectangle 564.000 203.000 4.168 8.336 274.804 red
+3
+move 857.800 163.000 10800 cycle
+scale 3.119 1800
+rotate 170.391 3600 cycle
+rectangle 83.000 15.000 20.328 10.164 86.632 yellow
+3
+move 999.000 416.000 10800 cycle
+scale 1.558 10800 cycle
+rotate -173.264 10800 cycle
+circle 762.000 319.000 8.801 black
+3
+move -649.000 34.000 10800 cycle
+scale 0.477 3600 cycle
+rotate 249.503 3600 cycle
+rectangle 1010.000 282.000 6.929 20.786 335.107 black
+3
+move 1159.000 123.000 10800 cycle
+scale 2.753 10800 cycle
+rotate 49.785 3600 cycle
+rectangle 169.000 324.000 14.321 7.161 26.333 yellow
+3
+move 2153.400 29.000 3600 cycle
+scale 2.631 10800 cycle
+rotate -52.665 3600 cycle
+rectangle 439.000 1.000 52.199 17.400 354.287 yellow
+3
+move 1511.600 352.000 3600 cycle
+scale 0.494 3600 cycle
+rotate 11.427 3600 cycle
+rectangle 1021.000 71.000 9.294 27.882 176.611 yellow
+3
+move -575.200 386.000 3600 cycle
+scale 1.797 3600 cycle
+rotate -176.611 5400
+rectangle 857.000 294.000 12.820 25.640 19.577 yellow
+3
+move 794.100 209.000 1800
+scale 1.028 10800 cycle
+rotate -19.577 1800
+rectangle 657.000 251.000 6.077 3.038 32.633 red
+3
+move 361.600 215.500 5400
+scale 4.279 5400
+rotate -65.266 3600 cycle
+rectangle 992.000 346.000 4.499 8.999 204.325 black
+3
+move 1073.000 124.000 10800 cycle
+scale 4.779 10800 cycle
+rotate 155.675 1800
+rectangle 211.000 227.000 3.481 6.963 279.550 black
+3
+move 1084.500 235.000 5400
+scale 3.734 1800
+rotate 160.900 3600 cycle
+rectangle 539.000 112.000 6.258 18.775 71.730 red
+3
+move -259.600 345.000 3600 cycle
+scale 2.077 1800
+rotate -143.460 3600 cycle
+rectangle 166.000 180.000 6.836 13.673 25.170 red
+3
+move 684.600 212.000 3600 cycle
+scale 2.803 10800 cycle
+rotate -50.340 10800 cycle
+rectangle 655.000 79.000 21.024 21.024 289.173 red
+3
+move 451.300 228.500 5400
+scale 0.237 3600 cycle
+rotate 141.653 3600 cycle
+rectangle 80.000 56.000 16.810 16.810 323.223 red
+3
+move 604.200 453.000 3600 cycle
+scale 0.547 3600 cycle
+rotate 73.554 3600 cycle
+rectangle 1114.000 366.000 20.257 6.752 341.113 yellow
+3
+move -71.000 -13.000 3600 cycle
+scale 1.925 1800
+rotate 37.774 10800 cycle
+rectangle 871.000 278.000 3.504 3.504 201.203 red
+3
+move 57.600 75.000 3600 cycle
+scale 3.711 1800
+rotate 317.593 10800 cycle
+rectangle 1000.000 158.000 19.146 57.437 113.057 black
+3
+move 679.700 241.500 1800
+scale 0.358 3600 cycle
+rotate -226.114 3600 cycle
+rectangle 993.000 8.000 9.391 4.696 207.182 red
+3
+move -217.800 423.000 3600 cycle
+scale 4.537 3600 cycle
+rotate 305.635 3600 cycle
+circle 263.000 395.000 5.189 black
+3
+move -124.000 -16.000 10800 cycle
+scale 1.505 3600 cycle
+rotate 324.778 3600 cycle
+rectangle 484.000 237.000 4.351 8.703 9.774 yellow
+3
+move 65.800 129.000 3600 cycle
+scale 4.975 3600 cycle
+rotate -19.549 3600 cycle
+rectangle 352.000 31.000 4.747 4.747 301.061 red
+3
+move 576.600 452.000 10800 cycle
+scale 4.477 3600 cycle
+rotate 58.939 1800
+rectangle 267.000 190.000 12.708 6.354 65.285 black
+3
+move 647.200 215.500 5400
+scale 3.092 3600 cycle
+rotate -130.569 10800 cycle
+rectangle 951.000 30.000 21.661 64.983 256.138 red
+3
+move -266.800 427.000 3600 cycle
+scale 0.600 1800
+rotate 207.725 3600 cycle
+rectangle 713.000 162.000 10.220 5.110 304.945 yellow
+3
+move 888.200 269.000 3600 cycle
+scale 4.088 3600 cycle
+rotate 110.111 3600 cycle
+rectangle 814.000 352.000 12.928 6.464 307.640 yellow
+3
+move 1456.400 157.000 3600 cycle
+scale 3.022 10800 cycle
+rotate 104.720 3600 cycle
+rectangle 1076.000 127.000 7.705 7.705 144.865 yellow
+3
+move -59.000 382.000 3600 cycle
+scale 2.374 3600 cycle
+rotate -144.865 5400
+rectangle 936.000 375.000 5.492 5.492 315.876 red
+3
+move 511.800 134.000 10800 cycle
+scale 3.734 3600 cycle
+rotate 88.247 3600 cycle
+rectangle 1289.000 122.000 9.518 4.759 135.742 yellow
+3
+move -259.000 309.000 10800 cycle
+scale 4.464 10800 cycle
+rotate -271.483 10800 cycle
+rectangle 960.000 291.000 8.297 4.149 318.152 yellow
+3
+move 148.000 218.000 3600 cycle
+scale 3.134 1800
+rotate 83.696 3600 cycle
+rectangle 900.000 268.000 10.976 21.953 243.317 black
+3
+move 459.400 124.000 3600 cycle
+scale 1.369 10800 cycle
+rotate 233.367 10800 cycle
+rectangle 213.000 31.000 12.156 12.156 120.182 red
+3
+move 1208.800 374.000 10800 cycle
+scale 1.139 3600 cycle
+rotate -240.363 3600 cycle
+rectangle 251.000 10.000 4.975 9.950 94.770 red
+3
+move 537.200 382.000 10800 cycle
+scale 2.613 5400
+rotate -189.541 3600 cycle
+rectangle 850.000 102.000 20.461 61.382 292.540 red
+3
+move -466.600 303.000 10800 cycle
+scale 0.271 10800 cycle
+rotate 134.921 3600 cycle
+rectangle 542.000 169.000 4.992 9.984 308.307 red
+3
+move 142.200 223.000 3600 cycle
+scale 4.208 3600 cycle
+rotate 51.693 5400
+rectangle 220.000 341.000 62.827 20.942 162.158 red
+3
+move 516.200 12.000 3600 cycle
+scale 0.621 5400
+rotate -324.315 10800 cycle
+rectangle 1150.000 101.000 5.447 10.895 54.080 black
+3
+move 1058.500 209.000 1800
+scale 3.773 10800 cycle
+rotate -108.160 3600 cycle
+rectangle 310.000 354.000 18.433 36.867 156.946 red
+3
+move 73.400 116.000 3600 cycle
+scale 0.410 10800 cycle
+rotate -156.946 1800
+circle 339.000 151.000 3.100 black
+3
+move -122.000 202.000 10800 cycle
+scale 3.193 3600 cycle
+rotate 30.657 10800 cycle
+rectangle 736.000 116.000 6.019 6.019 196.826 red
+3
+move 763.800 393.000 3600 cycle
+scale 3.320 3600 cycle
+rotate 326.348 10800 cycle
+rectangle 1182.000 276.000 11.099 5.549 345.065 yellow
+3
+move 1114.400 155.000 3600 cycle
+scale 3.685 3600 cycle
+rotate 29.871 10800 cycle
+circle 176.000 340.000 7.545 black
+3
+move -11.000 117.000 3600 cycle
+scale 0.723 10800 cycle
+rotate 332.659 3600 cycle
+rectangle 215.000 154.000 14.446 14.446 271.328 yellow
+3
+move 1709.600 355.000 10800 cycle
+scale 0.800 10800 cycle
+rotate 177.344 10800 cycle
+rectangle 749.000 52.000 20.763 62.290 132.970 red
+3
+move 39.200 431.000 10800 cycle
+scale 0.252 3600 cycle
+rotate -265.940 3600 cycle
+rectangle 718.000 79.000 5.821 5.821 351.389 black
+3
+move 1084.500 176.500 5400
+scale 3.466 3600 cycle
+rotate 17.221 3600 cycle
+rectangle 1178.000 224.000 20.499 6.833 78.337 yellow
+3
+move -680.200 285.000 10800 cycle
+scale 2.805 3600 cycle
+rotate -78.337 5400
+rectangle 1133.000 345.000 8.993 4.497 266.823 yellow
+3
+move -77.000 164.000 10800 cycle
+scale 4.782 3600 cycle
+rotate 186.353 10800 cycle
+rectangle 348.000 390.000 41.180 20.590 23.943 yellow
+3
+move 826.600 215.500 5400
+scale 0.263 3600 cycle
+rotate -47.886 3600 cycle
+rectangle 795.000 303.000 54.504 18.168 10.129 yellow
+3
+move 1462.400 50.000 10800 cycle
+scale 0.431 3600 cycle
+rotate -10.129 1800
+circle 258.000 376.000 3.570 black
+3
+move -93.000 107.000 3600 cycle
+scale 1.821 5400
+rotate -73.087 5400
+rectangle 166.000 150.000 9.475 28.424 66.931 yellow
+3
+move 949.300 228.500 1800
+scale 1.744 10800 cycle
+rotate -133.862 10800 cycle
+rectangle 1044.000 295.000 8.841 17.682 273.629 yellow
+3
+move 1115.700 209.000 5400
+scale 1.941 3600 cycle
+rotate 172.743 3600 cycle
+rectangle 984.000 227.000 4.589 4.589 6.494 red
+3
+move 165.700 254.500 5400
+scale 2.833 5400
+rotate -12.988 3600 cycle
+rectangle 1057.000 30.000 4.340 13.020 303.053 yellow
+3
+move 222.900 189.500 5400
+scale 4.991 10800 cycle
+rotate 113.894 10800 cycle
+rectangle 666.000 101.000 9.683 9.683 353.754 black
+3
+move 1477.000 278.000 3600 cycle
+scale 1.343 5400
+rotate 12.492 10800 cycle
+rectangle 720.000 384.000 5.979 5.979 122.053 yellow
+3
+move 794.100 189.500 5400
+scale 2.174 1800
+rotate -244.106 3600 cycle
+rectangle 695.000 234.000 6.609 19.826 82.534 yellow
+3
+move 1307.600 171.000 3600 cycle
+scale 2.934 3600 cycle
+rotate -82.534 5400
+rectangle 315.000 310.000 5.164 5.164 263.293 red
+3
+move 42.400 199.000 3600 cycle
+scale 4.035 3600 cycle
+rotate 96.707 1800
+rectangle 52.000 157.000 15.584 15.584 117.189 black
+3
+move 2013.000 196.000 10800 cycle
+scale 0.668 10800 cycle
+rotate -234.377 10800 cycle
+circle 92.000 56.000 3.339 white
+3
+move 1739.600 338.000 10800 cycle
+scale 4.391 10800 cycle
+rotate -44.039 10800 cycle
+circle 597.000 298.000 9.872 white
+3
+move 1198.600 168.000 3600 cycle
+scale 0.823 10800 cycle
+rotate -230.568 3600 cycle
+circle 677.000 278.000 9.217 white
+3
+move 1082.600 188.000 10800 cycle
+scale 0.953 10800 cycle
+rotate -55.795 1800
+circle 1214.000 116.000 4.227 white
+3
+move 581.600 278.000 10800 cycle
+scale 2.129 5400
+rotate 290.244 3600 cycle
